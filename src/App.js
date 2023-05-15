@@ -1,10 +1,8 @@
-
+import LoginRegister from "./Pages/SignIn-SignUp/LoginRegister";
 function App() {
-  return (
-    <div >
-     hello
-    </div>
-  );
+  return <>
+  <LoginRegister/>
+  </>
 }
 
 export default App;
